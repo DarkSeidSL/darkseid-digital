@@ -1,4 +1,4 @@
-cd darkseid-digital-site # go into your unzipped folder
+cd darkseid-digital
 git init
 git add .
 git commit -m "Initial commit"
